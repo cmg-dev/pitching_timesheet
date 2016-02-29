@@ -14,7 +14,9 @@ background-image: url(img/s1_current_state.png)
 ### Aktueller Stand
 
 .right-column[
-Keine Ideen bla bla...
+* Benutzbar
+* Im Einsatz
+* Aufwand hat sich verdoppelt
 ]
 
 ---
