@@ -4,16 +4,17 @@ background-image: url(background-intro.png)
 # Next Develper Day
 
 ---
-class: middle, center
+class:
 background-image: url(img/s0_start.png)
 
 ---
-class: top, center
+class: left
 background-image: url(img/s1_current_state.png)
+
+.right-column[
 
 ### Aktueller Stand
 
-.right-column[
 * Benutzbar
 * Im Einsatz
 * Aufwand hat sich verdoppelt
